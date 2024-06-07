@@ -1,5 +1,5 @@
 # Trilha JS Developer - Pokedex
  
- Teste de modificação
+ Teste de modificação 2
 
- outra modificação
+ outra modificação 2
